@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**alexandrersa/alexandrersa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm Alexandre Sá and working as a Backend Software Engineer at Cornershop by Uber.
+- 🔭 I’m currently working on  **Backend Development**
+- 🌱 I’m mainly using **Python**
+- 💬 Ask me about anything, I am happy to help you
+- 👨 Know more about me at [Personal Website](https://www.alexandrersa.eti.br) 
+- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/alexandrersa) for complete background and contact.
+- :boom: awesome octoprofile : [Alexandre Sá](https://octoprofile.vercel.app/user?id=alexandrersa)
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in touch:
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleh.ufs@gmail.com)
