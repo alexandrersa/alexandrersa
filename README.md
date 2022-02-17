@@ -10,7 +10,9 @@
 
 <br />
 <br />
-
+[![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrersa&show_icons=true&theme=tokyonight)](https://github.com/cornershop/cornershop-backend)
+<br />
+<br />
 📫 Get in touch:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleh.ufs@gmail.com)
