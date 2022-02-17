@@ -10,8 +10,9 @@
 
 <br />
 <br />
-[![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrersa&show_icons=true&theme=tokyonight)](https://github.com/cornershop/cornershop-backend)
+[![Alexandrersa Status](https://github-readme-stats.vercel.app/api?username=alexandrersa&show_icons=true&theme=tokyonight&repo=cornershop/cornershop-backend)](https://github.com/cornershop/cornershop-backend)
 <br />
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrersa&layout=compact)](https://github.com/cornershop/cornershop-backend)
 <br />
 📫 Get in touch:
 
