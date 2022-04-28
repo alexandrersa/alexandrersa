@@ -11,7 +11,8 @@
 ![Alexandre Sá Status](https://github-readme-stats.vercel.app/api?username=alexandrersa&show_icons=true&theme=tokyonight)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrersa&layout=compact)
 <br />
-
+![](https://komarev.com/ghpvc/?username=alexandrersa)
+<br />
 📫 Get in touch:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aleh.ufs@gmail.com)](mailto:aleh.ufs@gmail.com)
