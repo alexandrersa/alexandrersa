@@ -1,6 +1,4 @@
 ### Hello there 👋
-
-- 👷 I’m Backend Engineer at <a target="_blank" href="https://cornershopapp.com">Cornershop by Uber</a>
 - 🌱 I’m mainly using **Python**
 - 💬 Ask me about anything, I am happy to help you
 - 👨 Know more about me at [Personal Website](https://www.alexandrersa.eti.br) 
