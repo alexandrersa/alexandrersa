@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🌱 I’m mainly using **Python**
+- 🌱 I’m mainly using **Python and Django**
 - 💬 Ask me about anything, I am happy to help you
 - 👨 Know more about me at [Personal Website](https://www.alexandrersa.eti.br) 
 - :boom: awesome octoprofile : [Alexandre Sá](https://octoprofile.vercel.app/user?id=alexandrersa)
